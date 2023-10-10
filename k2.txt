@@ -1,1 +1,2 @@
 how
+text file k2
